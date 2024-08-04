@@ -1,2 +1,2 @@
 # Vector_Clock
-Vector Clock Implementation in Java
+Vector Clock Implementation in Go
