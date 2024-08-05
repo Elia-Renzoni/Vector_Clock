@@ -2,7 +2,7 @@ package app
 
 import (
 	"sync"
-	tt "vectorclock/transport"
+	tt "vectorclock/internals/transport"
 )
 
 type VectorClock struct {
