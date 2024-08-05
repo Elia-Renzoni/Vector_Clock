@@ -7,5 +7,4 @@ func (s *Sender) StartSending() {
 	for {
 		// todo
 	}
-
 }
